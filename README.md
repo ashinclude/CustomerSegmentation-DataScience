@@ -1,8 +1,12 @@
 # CustomerSegmentation-DataScience
 Customer Segmentation using K-means Clustering in Python 
 
-Setup:
+Requirements:
 
 You will need to have numpy, pandas, seaborn, and matplotlib.
 
-The data set is from Kaggle and can be downloaded from this repo.
+Dataset
+
+Model: 
+
+![FireShot CapCustomerSegmentation](https://user-images.githubusercontent.com/109665943/211645352-5ccd8153-4ec7-4af9-9f17-85fbd15159cd.png)
